@@ -18,5 +18,8 @@
       "firebase.json",
       "README.md"
     ]
+  },
+  "storage": {
+    "rules": "storage.rules"
   }
 }
